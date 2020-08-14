@@ -1,7 +1,6 @@
 package login;
 
-import login.chart.Chart;
-import login.gui.Lunch;
+import login.pie.PieCharts;
 
 /**
  * login.Main.
@@ -12,7 +11,8 @@ import login.gui.Lunch;
  */
 public class Main {
     public static void main(final String[] args) {
-       // Lunch.main(args);
-        Chart.main(args);
+        // Lunch.main(args);
+        // Chart.main(args);
+        PieCharts.main(args);
     }
 }
