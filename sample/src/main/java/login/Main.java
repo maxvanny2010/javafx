@@ -1,5 +1,6 @@
 package login;
 
+import login.chart.Chart;
 import login.gui.Lunch;
 
 /**
@@ -11,6 +12,7 @@ import login.gui.Lunch;
  */
 public class Main {
     public static void main(final String[] args) {
-        Lunch.main(args);
+       // Lunch.main(args);
+        Chart.main(args);
     }
 }
