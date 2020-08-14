@@ -1,0 +1,1 @@
+# javafx check sample
